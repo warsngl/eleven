@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.fcc{
+  @apply flex items-center justify-center 
+}
+.active{
+  @apply bg-green-200
+}
+.inactive{
+  @apply bg-red-200
+}
